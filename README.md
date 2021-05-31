@@ -11,7 +11,7 @@ I think that to be a Software Engineer the programming language is the only way 
 ## Skills and Experience
 Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
-[![Java](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=#007396&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 - 🔭 I’m currently working on HSBC Bank 
