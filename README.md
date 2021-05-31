@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello 👋, my name is Julio Perez
+#### Full-Stack Developer
+![Full-Stack Developer](https://i.imgur.com/K01zeD9.png)
 
-<!--
-**julioperezdev/julioperezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In 2020 I built **Protobot** to teach and improve my tech skills, I thing that I have resources to share my experiences about  how the people can learn the requirements to work in IT Industry.
 
-Here are some ideas to get you started:
+I'm currently located in Argentina working at HSBC Bank and mainly i take responsibilities as Backend Developer, building new features and using a lot of tools and methodologies to implement the Best Practices to write code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think that to be a Software Engineer the programming language is the only way to do this.
+
+Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
+
+- 🔭 I’m currently working on HSBC Bank 
+- 🌱 I’m currently learning DDD Architectures 
+- 📫 How to reach me: perezjulioernesto@gmail.com 
+- ⚡ Fun fact: Rubik's cube 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julioperezdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jperezviloria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/julioperez.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/protobotdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](protobot.dev)  
+
+![GitHub metrics](https://metrics.lecoq.io/julioperezdev)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioperezdev)  
+
