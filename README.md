@@ -8,6 +8,7 @@ I'm currently located in Argentina working at HSBC Bank and mainly i take respon
 
 I think that to be a Software Engineer the programming language is the only way to do this.
 
+## Skills and Experience
 Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
 - 🔭 I’m currently working on HSBC Bank 
