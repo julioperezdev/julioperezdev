@@ -10,9 +10,10 @@ I think that to be a Software Engineer the programming language is the only way 
 
 ## Skills and Experience
 Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+
+[![Java](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 - 🔭 I’m currently working on HSBC Bank 
 - 🌱 I’m currently learning DDD Architectures 
 - 📫 How to reach me: perezjulioernesto@gmail.com 
