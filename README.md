@@ -23,7 +23,7 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
-[![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node&logoColor=white&labelColor=101010)]()
+[![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
 
