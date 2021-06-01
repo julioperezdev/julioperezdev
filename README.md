@@ -33,14 +33,11 @@ I think that to be a Software Engineer the programming language is the only way 
 - 📫 How to reach me: perezjulioernesto@gmail.com 
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julioperezdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jperezviloria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/julioperez.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/protobotdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](protobot.dev)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioperezdev)  
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2??link=https://www.linkedin.com/in/jperezviloria/&style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2???link=https://www.linkedin.com/in/jperezviloria/&link=https://www.linkedin.com/in/jperezviloria/&style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)]()
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)]()
