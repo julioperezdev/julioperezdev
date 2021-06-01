@@ -15,7 +15,7 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 [![JUnit](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=JUnit5&logoColor=#25A162&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Spring&logoColor=#6DB33F&labelColor=#6DB33F)]()
 
-[![SQL](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=#4169E1)]()
+[![SQL](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1&labelColor=#4169E1)]()
 
 [![Docker](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
