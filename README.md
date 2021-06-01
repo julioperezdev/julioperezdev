@@ -9,7 +9,7 @@ I'm currently located in Argentina working at HSBC Bank and mainly i take respon
 I think that to be a Software Engineer the programming language is the only way to do this.
 
 ## Skills and Experience
-Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
+
 
 [![Java](https://img.shields.io/badge/Java-E23237?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
@@ -31,12 +31,17 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 - 🔭 I’m currently working on HSBC Bank 
 - 🌱 I’m currently learning DDD Architectures 
 - 📫 How to reach me: perezjulioernesto@gmail.com 
-- ⚡ Fun fact: Rubik's cube 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julioperezdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jperezviloria/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/julioperez.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/protobotdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](protobot.dev)  
 
-![GitHub metrics](https://metrics.lecoq.io/julioperezdev)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioperezdev)  
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/TypeScript-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]()
+[![Instagram](https://img.shields.io/badge/Javascript-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)]()
+[![Facebook](https://img.shields.io/badge/NodeJs-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)]()
+[![Youtube](https://img.shields.io/badge/NodeJs-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)]()
 
