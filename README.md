@@ -14,9 +14,9 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 [![Java](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
-[![Docker](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Spring Boot&logoColor=white&labelColor=101010)]()
+[![Jenkins](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
+[![JUnit](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/SQL-FA7343?style=for-the-badge&logo=Spring Boot&logoColor=white&labelColor=101010)]()
 - 🔭 I’m currently working on HSBC Bank 
 - 🌱 I’m currently learning DDD Architectures 
 - 📫 How to reach me: perezjulioernesto@gmail.com 
