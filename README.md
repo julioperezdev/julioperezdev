@@ -11,11 +11,11 @@ I think that to be a Software Engineer the programming language is the only way 
 ## Skills and Experience
 Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
-[![Java](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=java&logoColor=#007396&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JUnit](https://img.shields.io/badge/SQL-25A162?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=#6DB33F)]()
 
-[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1&labelColor=#4169E1)]()
+[![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=#4169E1)]()
 
 [![Docker](https://img.shields.io/badge/SQL-2496ED?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/SQL-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
