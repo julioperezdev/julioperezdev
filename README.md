@@ -13,7 +13,7 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
 [![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
-[![Spring](https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=101010)]()
 
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)]()
 
