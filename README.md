@@ -37,8 +37,8 @@ I think that to be a Software Engineer the programming language is the only way 
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]()(https://www.linkedin.com/in/jperezviloria/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)]()
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)]()
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jperezviloria)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/julioperez.dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=1227615902)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCZ3LnZz_IUwK0reb-7qJ-jw)
 
