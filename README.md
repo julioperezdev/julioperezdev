@@ -6,7 +6,7 @@ In 2020 I built **Protobot** to teach and improve my tech skills, I thing that I
 
 I'm currently located in Argentina working at HSBC Bank and mainly i take responsibilities as Backend Developer, building new features and using a lot of tools and methodologies to implement the Best Practices to write code.
 
-I think that to be a Software Engineer the programming language is the only way to do this.
+I think that to be a Software Engineer the programming language isn't the only way to do this.
 
 ## Skills and Experience
 
