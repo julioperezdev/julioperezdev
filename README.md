@@ -11,7 +11,7 @@ I think that to be a Software Engineer the programming language is the only way 
 ## Skills and Experience
 Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 
-[![Java](https://img.shields.io/badge/Java-4169E1?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-E23237?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=101010)]()
 
