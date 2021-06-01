@@ -20,6 +20,12 @@ Skills: JAVA / SQL / DOCKER / JENKINS / AWS / TYPESCRIPT / GO
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white&labelColor=101010)]()
+
 - 🔭 I’m currently working on HSBC Bank 
 - 🌱 I’m currently learning DDD Architectures 
 - 📫 How to reach me: perezjulioernesto@gmail.com 
