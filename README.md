@@ -2,7 +2,7 @@
 #### Full-Stack Developer
 ![Full-Stack Developer](https://res.cloudinary.com/julioperez-dev/image/upload/v1661722227/julioperezLogo_pzlwxs.png)
 
-In 2020 I built **Protobot** to teach and improve my tech skills, I thing that I have resources to share my experiences about  how the people can learn the requirements to work in IT Industry.
+In 2020 I built **Julioperez.dev** to teach and improve my tech skills, I thing that I have resources to share my experiences about  how the people can learn the requirements to work in IT Industry.
 
 I'm currently located in Argentina working at HSBC Bank and mainly i take responsibilities as Backend Developer, building new features and using a lot of tools and methodologies to implement the Best Practices to write code.
 
