@@ -1,6 +1,6 @@
 ### Hello 👋, my name is Julio Perez
 #### Full-Stack Developer
-![Full-Stack Developer](https://res.cloudinary.com/julioperez-dev/image/upload/v1661722227/julioperezLogo_pzlwxs.png)
+![Full-Stack Developer](https://res.cloudinary.com/julioperez-dev/image/upload/v1661722556/julioperezLogo_kbz1zj.png)
 
 In 2020 I built **Julioperez.dev** to teach and improve my tech skills, I thing that I have resources to share my experiences about  how the people can learn the requirements to work in IT Industry.
 
