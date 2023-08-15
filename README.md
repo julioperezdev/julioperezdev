@@ -30,7 +30,7 @@ I think that to be a Software Engineer the programming language isn't the only w
 
 - 🔭 I’m currently working on HSBC Bank 
 - 🌱 I’m currently learning DDD Architectures 
-- 📫 How to reach me: perezjulioernesto@gmail.com 
+- 📫 How to reach me: julioperez.contact@gmail.com 
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julioperezdev)  
